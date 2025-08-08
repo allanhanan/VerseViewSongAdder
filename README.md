@@ -4,6 +4,9 @@ The VerseView Song Adder is a desktop application designed to simplify the proce
 
 It allows you to select one or more PowerPoint files (`.ppt` or `.pptx`) and automatically extract the lyrics from the slides. The app then injects this information into your `songs.db` file, making the songs available in the VerseView software.
 
+<img width="1204" height="841" alt="Capture2" src="https://github.com/user-attachments/assets/a3b5deaa-5256-4603-9c6a-66f30604865e" />
+
+
 ## App Details (For Users)
 
 ### What it Does
